@@ -45,5 +45,6 @@ Due to the dishonesty of ninth grade of Thomas High school, we need to recreate 
 |![](Resources/type1.PNG)                          |![](Resources/type2.PNG)                                 |
 * The scores by school type remain the same as well.
 
+## Summary
+Overall, there is no significant scores change for different aspects of school district analysis after replacing all the ninth graders' scores. The number of student is also removed when removing their scores. It does not affect the overall performance that much.
 
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
