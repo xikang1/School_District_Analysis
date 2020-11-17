@@ -7,6 +7,10 @@ Due to the dishonesty of ninth grade of Thomas High school, we need to recreate 
 
 
 
+* All three counties and votes details have listed below:
+  * Jefferson: Vote Percentage-10.5%, Number of votes: 38,855
+  * Denver: Vote Percentage-82.8%,Number of votes: 306,055
+  * Arapahoe: Vote Percentage-6.7%,Number of votes：24,801
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
